@@ -71,8 +71,3 @@ pip install pandas numpy matplotlib seaborn scikit-learn imbalanced-learn xgboos
 - Tune the decision threshold against a real business cost matrix
 - Try stacking/ensembling the top-performing models
 - Add periodic retraining and drift monitoring once deployed
-
-## License
-
-This project is for educational/portfolio purposes. The dataset is the publicly available IBM Telco
-Customer Churn dataset.
